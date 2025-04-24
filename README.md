@@ -36,4 +36,4 @@ El objetivo principal es proporcionar una herramienta simple y eficiente para ag
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia .
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
