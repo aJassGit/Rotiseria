@@ -1,0 +1,32 @@
+/*estilizando session de loogin-input*/
+.sessionBG{
+	height: 100%;
+	background: url("https://www.peru.travel/Contenido/Noticia/Imagen/pe/174/1.1/Principal/88.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	align-items: center;
+} 
+.sessionForm{
+	border: 2px solid red; 
+	border-radius:12px;
+	margin:0 auto;
+	box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+	padding:50px;
+	max-width: 400px;
+	backdrop-filter: blur(10px);
+}
+.botonSession
+{
+	margin-top:10px;
+	color:#d51919;  
+}
+.datosSession{
+  	color:#d51919;
+	max-width:72px;
+	font-weight:bold;
+}
+.loginInputSession {
+  	width: 100px;
+	color: #000;
+} 

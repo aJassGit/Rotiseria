@@ -1,0 +1,11 @@
+/*estilzando las ventas con display entre otros*/
+.local {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
